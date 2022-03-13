@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\sapper\sapper\bin\Debug\sapper.exe.config
+C:\Users\Admin\source\repos\sapper\sapper\bin\Debug\sapper.exe
+C:\Users\Admin\source\repos\sapper\sapper\bin\Debug\sapper.pdb
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.Form1.resources
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.Properties.Resources.resources
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.exe
+C:\Users\Admin\source\repos\sapper\sapper\obj\Debug\sapper.pdb
